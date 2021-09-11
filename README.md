@@ -18,7 +18,7 @@ IP: creeper.jakehamblin.gay
 
 ---
 
-# Dal Server
+# Snowside Webhosting Server (shortcut)
 IP: fat.jakehamblin.gay
 
 ---
