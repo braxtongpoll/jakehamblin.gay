@@ -22,3 +22,5 @@ IP: creeper.jakehamblin.gay
 IP: fat.jakehamblin.gay
 
 ---
+
+Register a new one [here](https://hyperz.dev/discord).
