@@ -23,4 +23,4 @@ IP: fat.jakehamblin.gay
 
 ---
 
-Register a new one [here](https://hyperz.dev/discord).
+Request your own [here](https://hyperz.dev/discord).
